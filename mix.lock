@@ -1,0 +1,4 @@
+%{
+  "epcap": {:git, "https://github.com/msantos/epcap.git", "4534e2b36856c2bf9f8cf1625301807c7d435760", []},
+  "pkt": {:git, "https://github.com/msantos/pkt.git", "ff0e9a7d28cdae941bce935602cd252cad1ea296", [branch: "master"]},
+}
